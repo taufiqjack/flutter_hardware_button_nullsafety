@@ -1,7 +1,7 @@
 name: flutter_hardware_button_nullsafety
 description: hardware button flutter
-version: 0.1.0
-homepage: https://github.com/flutter_hardware_button_nullsafety
+version: 0.1.1
+homepage: https://github.com/taufiqjack/flutter_hardware_button_nullsafety
 
 environment:
   sdk: ">=2.18.2 <3.0.0"
